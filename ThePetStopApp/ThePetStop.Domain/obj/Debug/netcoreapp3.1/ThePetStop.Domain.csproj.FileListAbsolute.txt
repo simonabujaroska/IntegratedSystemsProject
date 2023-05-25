@@ -1,0 +1,10 @@
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Domain\bin\Debug\netcoreapp3.1\ThePetStop.Domain.deps.json
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Domain\bin\Debug\netcoreapp3.1\ThePetStop.Domain.dll
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Domain\bin\Debug\netcoreapp3.1\ThePetStop.Domain.pdb
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Domain\obj\Debug\netcoreapp3.1\ThePetStop.Domain.csproj.AssemblyReference.cache
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Domain\obj\Debug\netcoreapp3.1\ThePetStop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Domain\obj\Debug\netcoreapp3.1\ThePetStop.Domain.AssemblyInfoInputs.cache
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Domain\obj\Debug\netcoreapp3.1\ThePetStop.Domain.AssemblyInfo.cs
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Domain\obj\Debug\netcoreapp3.1\ThePetStop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Domain\obj\Debug\netcoreapp3.1\ThePetStop.Domain.dll
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Domain\obj\Debug\netcoreapp3.1\ThePetStop.Domain.pdb

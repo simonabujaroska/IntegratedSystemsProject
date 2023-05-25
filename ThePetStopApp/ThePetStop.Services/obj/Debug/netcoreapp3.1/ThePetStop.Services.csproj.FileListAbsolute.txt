@@ -1,0 +1,15 @@
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Services\bin\Debug\netcoreapp3.1\ThePetStop.Services.deps.json
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Services\bin\Debug\netcoreapp3.1\ThePetStop.Services.dll
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Services\bin\Debug\netcoreapp3.1\ThePetStop.Services.pdb
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Services\bin\Debug\netcoreapp3.1\ThePetStop.Domain.dll
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Services\bin\Debug\netcoreapp3.1\ThePetStop.Repository.dll
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Services\bin\Debug\netcoreapp3.1\ThePetStop.Domain.pdb
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Services\bin\Debug\netcoreapp3.1\ThePetStop.Repository.pdb
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Services\obj\Debug\netcoreapp3.1\ThePetStop.Services.csproj.AssemblyReference.cache
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Services\obj\Debug\netcoreapp3.1\ThePetStop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Services\obj\Debug\netcoreapp3.1\ThePetStop.Services.AssemblyInfoInputs.cache
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Services\obj\Debug\netcoreapp3.1\ThePetStop.Services.AssemblyInfo.cs
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Services\obj\Debug\netcoreapp3.1\ThePetStop.Services.csproj.CoreCompileInputs.cache
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Services\obj\Debug\netcoreapp3.1\ThePetStop.Services.csproj.CopyComplete
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Services\obj\Debug\netcoreapp3.1\ThePetStop.Services.dll
+C:\Users\Simona\Desktop\ThePetStopApp\ThePetStop.Services\obj\Debug\netcoreapp3.1\ThePetStop.Services.pdb
